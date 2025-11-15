@@ -1,0 +1,81 @@
+*{
+    pading: 0px;
+    margin: 0px;
+}
+ul{
+    border: solid 1px;
+    width: 320px;
+    position: fixed ;
+    height: 100%;
+    background-color: rgb(229, 157, 181);
+    padding-top: 60px;
+    list-style: none;
+}
+#text1{
+    color: rgb(171, 143, 197);
+    font-size: 50px;
+    font-weight: bold;
+}
+text2{
+    color: violet;
+    font-size: 48px;
+    font-weight: bold;
+}
+ul li{
+    border: solid 1px;
+    height: 50px;
+    width: 160px;
+    margin-left: 70px;
+    background-color: pink;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+ul li a{
+    color: red;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+}
+ul li:hover{
+    background-color: blueviolet;
+}
+#home{
+    border: solid 1px;
+    height: 630px;
+    background-color: aquamarine;
+    padding-left: 445px;
+}
+#text3{
+    color: violet;
+    font-size: 58px;
+}
+#text4{
+    color: blueviolet;
+    font-size: 50px;
+}
+#text5{
+    font-size: 22px;
+    font-weight: bold;
+}
+#bt1{
+    height: 60px;
+    width: 200px;
+    background-color: rgba(55, 0, 255, 0.975);
+    border-radius: 20px;
+    color: rgb(95, 160, 158);
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+#about{
+    border: solid 1px;
+    height: 630px;
+    background-color: aquamarine;
+    padding-left: 400px;
+}
+#About me{
+    font-size: 50px;
+    color: aqua;
+}
